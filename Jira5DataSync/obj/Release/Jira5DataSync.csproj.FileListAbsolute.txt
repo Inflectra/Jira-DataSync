@@ -1,0 +1,8 @@
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\bin\Release\JiraDataSync.dll.config
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\bin\Release\JiraDataSync.dll
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\bin\Release\JiraDataSync.pdb
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\bin\Release\PlugInInterfaces.dll
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\obj\Release\JiraDataSync.dll
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\obj\Release\JiraDataSync.pdb
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\bin\Release\Newtonsoft.Json.dll
+C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Data Sync PlugIns\Jira Data Sync\Jira5DataSync\obj\Release\Jira5DataSync.csprojResolveAssemblyReference.cache
